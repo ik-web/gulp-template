@@ -16,9 +16,9 @@
 
 ## Description:
 
-**Gulp** assembly for layout of simple sites (landings) using preprocessor `css => sass` <br>
-`javascript es6+` etc. Thanks to help of the `gulp-gh-pages` module, <br>
-you can publish content from the `dist` folder to `Gitub pages`
+`Gulp` assembly for automating workflows in project development using preprocessor **css => sass** <br>
+**javascript es6+** etc. Thanks to help of the `gulp-gh-pages` module, you can publish content <br>
+from the `dist` folder to *GitHub-pages*
 
 ## Documentation
 
